@@ -1,0 +1,25 @@
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# AI / ML
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+onnxruntime-gpu>=1.16.0
+
+# Voice
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+pygame>=2.5.0
+
+# OCR
+pytesseract>=0.3.10
+easyocr>=1.7.0
+pillow>=10.0.0
+
+# API / Utils
+requests>=2.31.0
+python-dotenv>=1.0.0
